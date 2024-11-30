@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "target": "ES2023",
+        "strict": true,
+        "module": "commonjs",
+        "sourceMap": true,
+        "resolveJsonModule": true,
+        "baseUrl": ".",
+        "paths": {
+            "@test-data/*": [
+                "test-data/*"
+            ]
+        }
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
