@@ -21,10 +21,6 @@ To set up the project, follow these steps:
    npm ci
    ```
 
-3. **Environment Configuration:**
-
-   Create a `.env` file in the root directory to configure any environment variables if needed. The project uses `dotenv` to manage environment variables.
-
 ## Running Tests
 
 The project includes a variety of test scripts to cover different aspects of the API. Below are the commands to run these tests:
