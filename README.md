@@ -18,7 +18,7 @@ To set up the project, follow these steps:
    Ensure you have Node.js installed. Then, run the following command to install the necessary dependencies:
 
    ```bash
-   npm ci
+   npm ci && npx playwright install chromium
    ```
 
 ## Running Tests
